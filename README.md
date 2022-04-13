@@ -1,2 +1,2 @@
-# Notes-App
+# practice-app
 Created with CodeSandbox
